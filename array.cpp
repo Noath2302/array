@@ -1,14 +1,14 @@
 #include<stdio.h>
 #include<conio.h>
-#define MAX 100
+#define MAX aaa
 /* 
 
-Tác gi?: Nguy?n Vi?t Nam Son
-Trung tâm dào t?o tin h?c - Thi?t k? ph?n m?m - Son Ğ?p Trai: www.SonDepTrai.com
+TÃ¡c gi?: Nguy?n Vi?t Nam Son
+Trung tÃ¢m dÃ o t?o tin h?c - Thi?t k? ph?n m?m - Son Ã?p Trai: www.SonDepTrai.com
 
-Ngu?n source code này Tôi vi?t vào nam 2012 lúc m?i b?t d?u h?c l?p trình C/C++ nên m?t s? cách s? không du?c t?i uu - B?n ch? nên dùng trên tinh th?n tham kh?o thôi nhé.
-Mong giúp d? du?c B?n trên con du?ng H?c L?p Trình.
-T?T C? VÌ S? THÀNH CÔNG C?A B?N
+Ngu?n source code nÃ y TÃ´i vi?t vÃ o nam 2012 lÃºc m?i b?t d?u h?c l?p trÃ¬nh C/C++ nÃªn m?t s? cÃ¡ch s? khÃ´ng du?c t?i uu - B?n ch? nÃªn dÃ¹ng trÃªn tinh th?n tham kh?o thÃ´i nhÃ©.
+Mong giÃºp d? du?c B?n trÃªn con du?ng H?c L?p TrÃ¬nh.
+T?T C? VÃŒ S? THÃ€NH CÃ”NG C?A B?N
 
 */void nhapmang(float a[MAX],int &n)
 {
