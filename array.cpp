@@ -47,6 +47,7 @@ int main()
 	NAMSON=getch();
 	if(NAMSON=='c'||NAMSON=='C')
 		goto quaylai;
+		////e4e;
 return 0;
 }
 
